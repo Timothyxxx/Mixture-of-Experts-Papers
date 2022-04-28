@@ -1,1 +1,1 @@
-# Mixture-of-Experts-Papers
+# Mixture-of-Experts(MoE) Papers
