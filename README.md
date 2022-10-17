@@ -42,4 +42,4 @@ Mixture of Experts Model papers.
 
 10. **AutoMoE: Neural Architecture Search for Efficient Sparsely Activated Transformers.** 
 
-   *Ganesh Jawahar, Subhabrata Mukherjee, Xiaodong Liu, Young Jin Kim, Muhammad Abdul-Mageed, Laks V. S. Lakshmanan, Ahmed Hassan Awadallah, Sebastien Bubeck, Jianfeng Gao*  [[pdf](https://arxiv.org/abs/2210.07535)] 2022.10
+    *Ganesh Jawahar, Subhabrata Mukherjee, Xiaodong Liu, Young Jin Kim, Muhammad Abdul-Mageed, Laks V. S. Lakshmanan, Ahmed Hassan Awadallah, Sebastien Bubeck, Jianfeng Gao*  [[pdf](https://arxiv.org/abs/2210.07535)] 2022.10
