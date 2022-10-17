@@ -36,3 +36,10 @@ Mixture of Experts Model papers.
 
    *Samyam Rajbhandari, Conglong Li, Zhewei Yao, Minjia Zhang, Reza Yazdani Aminabadi, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He*  [[pdf](https://arxiv.org/abs/2201.05596)] 2022.1
    
+9. **A Review of Sparse Expert Models in Deep Learning.** 
+
+   *William Fedus, Jeff Dean, Barret Zoph*  [[pdf](https://arxiv.org/abs/2209.01667)] 2022.9
+
+10. **AutoMoE: Neural Architecture Search for Efficient Sparsely Activated Transformers.** 
+
+   *Ganesh Jawahar, Subhabrata Mukherjee, Xiaodong Liu, Young Jin Kim, Muhammad Abdul-Mageed, Laks V. S. Lakshmanan, Ahmed Hassan Awadallah, Sebastien Bubeck, Jianfeng Gao*  [[pdf](https://arxiv.org/abs/2210.07535)] 2022.10
